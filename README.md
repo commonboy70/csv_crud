@@ -17,11 +17,12 @@ Tudo isso **sem usar bibliotecas externas**.
 
 ## Estrutura do Projeto
 
+```
 csv_crud/
 ├── csv_crud.py
 ├── dados.csv
 └── README.md
-
+```
 ---
 
 ## Estrutura do CSV
