@@ -29,9 +29,11 @@ csv_crud/
 
 O arquivo `dados.csv` deve seguir o formato abaixo:
 
+```
 id,nome,idade
 1,Ana,20
 2,Bruno,25
+```
 
 - Todos os valores são tratados como **string**
 - A primeira linha é sempre o **cabeçalho**
